@@ -4,12 +4,12 @@ This repository contains a comprehensive set of **Window Function examples in Mi
 
 ## 📁 Project Contents
 
-- `Window function.sql`:  
+- [`Window function.sql`](https://github.com/sibashish9040/Window_function_SQL/blob/main/windows%20function.sql):  
   A complete SQL script for MS SQL Server that includes:
   - Sample data creation using `CREATE TABLE` and `INSERT INTO`
   - Practical examples demonstrating various window functions
 
-- `Aggregate_Analytical_Functions.pdf`:  
+- [`Aggregate_Analytical_Functions.pdf`](https://github.com/sibashish9040/Window_function_SQL/blob/main/08_Aggregation_Analytical_Functions.pdf):  
   A compact reference guide summarizing the syntax and use cases of SQL Server window functions.
 
 ## ✅ Features & Use Cases Covered
